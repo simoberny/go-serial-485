@@ -1,4 +1,4 @@
-module go.bug.st/serial
+module github.com/simoberny/go-serial-485
 
 go 1.17
 
